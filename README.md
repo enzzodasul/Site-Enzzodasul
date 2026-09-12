@@ -1,6 +1,10 @@
 # 🚀 ENZZO DA SUL — Plataforma Digital Oficial
 
 Plataforma digital oficial do artista musical **ENZZO DA SUL**, desenvolvida com **React**, **TypeScript**, **Vite** e **Tailwind CSS**.
+<img width="1677" height="944" alt="Captura de tela 2026-09-12 015248" src="https://github.com/user-attachments/assets/70cb13b8-7e02-4f3b-b45e-ec64ffebfeeb" />
+<img width="1597" height="1042" alt="Captura de tela 2026-09-12 015343" src="https://github.com/user-attachments/assets/eb71d548-dadd-4859-8f78-2fd029aec9ce" />
+<img width="1591" height="1042" alt="Captura de tela 2026-09-12 015404" src="https://github.com/user-attachments/assets/bd7d5e74-865a-4ba2-bbb5-4b29b8cc5e30" />
+<img width="1300" height="835" alt="Captura de tela 2026-09-12 015233" src="https://github.com/user-attachments/assets/b4edfc17-fd7c-4f99-b7a5-d40d66261be2" />
 
 ---
 
